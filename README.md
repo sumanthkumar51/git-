@@ -2,5 +2,5 @@
 demo for github
 lolot off higs toe 
 mee '
-print ("hello"):
+print ("sumatnh"):
 syntax
